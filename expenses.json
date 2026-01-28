@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Books",
+        "amount": 450.0,
+        "category": "Study"
+    },
+    {
+        "id": 2,
+        "title": "Books",
+        "amount": 450.0,
+        "category": "Study"
+    },
+    {
+        "id": 3,
+        "title": "Clothes",
+        "amount": 1000.0,
+        "category": "Clothing"
+    },
+    {
+        "id": 4,
+        "title": "Bike",
+        "amount": 100000.0,
+        "category": "Clothing"
+    },
+    {
+        "id": 0,
+        "title": "string",
+        "amount": 0.0,
+        "category": "string"
+    }
+]
